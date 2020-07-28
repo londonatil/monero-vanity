@@ -17,9 +17,9 @@ import (
 	//"code.google.com/p/go.crypto/openpgp/packet"
 	"github.com/conformal/fastsha256"
 
-	"github.com/ehmry/monero"
-	"github.com/ehmry/monero/base58"
-	"github.com/ehmry/monero/crypto"
+	"github.com/CrowBits/monero"
+	"github.com/CrowBits/monero/base58"
+	"github.com/CrowBits/monero/crypto"
 )
 
 const version = "1.0"
